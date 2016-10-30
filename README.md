@@ -1,2 +1,2 @@
 # py-chess
-My implementation of chess using Python.
+Our implementation of chess using Python.
